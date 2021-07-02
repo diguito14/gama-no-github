@@ -1,0 +1,1 @@
+Estou gostando da experiencia, essa parte do git está um pouco confusa, acho que é porque estou muito no inicio, mas galera no grupo do slack ajudou bastante.
